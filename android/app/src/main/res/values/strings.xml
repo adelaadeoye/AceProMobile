@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">acepromobile</string>
+    <string name="facebook_app_id">3849894945071563</string>
+    <string name="fb_login_protocol_scheme">fb3849894945071563</string>
+</resources>

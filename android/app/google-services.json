@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229339801783",
+    "firebase_url": "https://acepro-mobile.firebaseio.com",
+    "project_id": "acepro-mobile",
+    "storage_bucket": "acepro-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229339801783:android:38367524066935dd558532",
+        "android_client_info": {
+          "package_name": "acepro.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229339801783-uh5c4fi165gmj6nkpf5n99qgoa588290.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0EqhBEiAQCMz56QNUyumkFqM23Tdqqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229339801783-uh5c4fi165gmj6nkpf5n99qgoa588290.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229339801783-b2akf6020vclbmcamqgagqlciv8ocens.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "acepro.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
